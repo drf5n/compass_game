@@ -1,0 +1,12 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="CompassLineGame">
+        <SrcDataSource relativeToVRT="1">CompassLineGame.csv</SrcDataSource>
+        <Field name="ID"  type="String"/>
+        <Field name="start"  type="String"/>
+        <Field name="route"  type="String"/>
+        <Field name="notes"  type="String"/>
+        <Field name="destination"  type="String" />
+        <GeometryField encoding="PointFromColumns" x="x" y="y" />
+    </OGRVRTLayer>
+</OGRVRTDataSource>
+
