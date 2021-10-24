@@ -8,4 +8,6 @@ a simple compass game.
 2) GIS files of the paths
 3) A map of the paths, in PDF and PNG formats
 
-https://drf5n.wordpress.com/2020/11/19/compass-line-game/
+See 
+https://drf5n.wordpress.com/2020/11/19/compass-line-game/ for the rules
+and for links to cards, etc.. 
